@@ -1,0 +1,9 @@
+Cableado electrico
+Cableado datos
+potencia de todas las màquinas(tener un 30 % de reserva para cableado y estabilizador para saber en q caso usamos ups o estabilizador)
+racks
+estabilizadores
+jabalina
+diametro de los cables
+
+Norma TIA/EIA 569A
