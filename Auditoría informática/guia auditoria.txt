@@ -1,0 +1,33 @@
+Informe
+Analisis
+	Politicas de Seguridad Logica
+		Administracion de Servidores
+		Implenebtacion de Seguridad en la Base de Datos
+		Control de Acceso a los Equipos
+		Niveles de Acceso
+		Politicas contra Virus
+	Plan de Seguridad
+		Seguridad contra incendios
+		seguridad en cortes electricos
+		Terremotos y temblores
+		Acceso Indeseados(Fisicos y Logicos)
+		Inundaciones
+		Robos
+	Redes
+		Introduccion
+		Equipos, Servicios y Seguridad
+		Confiabilidad
+		Otros
+Conclusion
+
+
+
+------------------------------------------
+Informe
+	Identificacion del Informe
+	Identificacion del Cliente
+	Identificacion de la Entidad Auditada
+	Identificacion de la Empresa Auditora
+	Fecha de auditoria
+	Fecha de Ebtrega de Informe
+	Objetivos
