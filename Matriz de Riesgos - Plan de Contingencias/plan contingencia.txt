@@ -1,0 +1,33 @@
+Plan de contingencia definido por:
+ - un evento de contingencia, que debe tener un responsable
+ - respuesta al evento/solucion =>plan de accion
+ - personas involucradas
+ - plan de retorno a las operaciones normales
+ La contringencia define lo que se hace si falla la solución de la matriz de riesgo.
+ Todo el mundo debería saber que tiene que hacer cuando ocurra la contingencia..
+ Cada contingencia va a tener algo distinto, por ejemplo:
+ 1)
+	Evento: pérdida de servidores principales por incendio en el centro de procesamiento principal
+	Respuesta: operar en centro computos alternativo
+			- buscar centro de computos alternativo: responsable:...
+			- llevar cintas a centro computos alternativo: resp...
+			- levanttar back up
+			- hacer revisión equipos p/ ver daño total
+	
+2)	
+	Evento: infeccion de virus informatico que dañe la operatividad y/o equipos
+	Respuesta: Responsable:.....:jefe / supervisor: ...
+			- identificar
+			- buscar parches
+			- cambiar políticas de usuario
+3) Evento: deteccion de un intruso
+   Respuesta:.....
+Otros ejemplos: incendios, inundaciones, fallas equipos aire, caida proveedor de back ups, falla de fuente del servidor
+
+ Matriz de riesgos (no tomamos todos los aspectos)
+ 
+ Riesgo	 		 	|	sistema_afectado  |	Importancia	 |	probablilidad	 | Puntage  | solucion
+ -------------------------------------------------------------------------------------------------
+ inf. por virus  	|  todos			  | 			 |  0.9  			 |  10		|
+ virus no detectado |  todos			  |				 |	  0.2			 |  4 		|
+ 
