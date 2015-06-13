@@ -1,0 +1,1 @@
+Subversion para compartir los prácticos de Administración de Recursos con los integrantes del grupo.
